@@ -1,0 +1,36 @@
+body{
+    background: rgb(228, 222, 222);
+    
+}
+.container{
+    margin:10%;
+
+}
+.box{
+    margin:10%;
+    border:2px solid black;
+    box-shadow:30px 20px 0px;
+    border-radius:50%10%/10%;
+}
+#message{
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:7%;
+    font-size:130%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(89, 66, 36);
+}
+#button{
+color: beige;
+background: black;
+border-radius: 9px;
+border:solid;
+border-color: rgb(205, 201, 201);
+margin-left:45%;
+margin-right:45%;
+font-size: 35px;
+}
+#button:hover{
+    background:rgb(11, 140, 187)
+}
